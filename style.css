@@ -1,6 +1,6 @@
 /*THIS FILE IS FOR FORMATTING AND CHANGING APPEARANCE OF HTML SCRIPTS*/
 
-body {
+#mainbod {
 	/*background-image:url('background.JPG');*/
 	background-image:url('ella.JPG');
 	background-size: cover;
