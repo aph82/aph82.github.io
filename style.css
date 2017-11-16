@@ -170,7 +170,7 @@
 	float: left;
 	height:350px;
 	width:530px;
-	font-size: 50px;
+	font-size: 30px;
 	text-align: center
 
 	
@@ -180,7 +180,7 @@
 	float: right;
 	height:350px;
 	width:530px;
-	font-size: 50px;
+	font-size: 30px;
 	text-align: center
 	
 }
@@ -196,7 +196,7 @@
 
 #f{
 	background-color: #BDCDFC;
-	font-size:60px;
+	font-size:80px;
 
 }
 /*CHANGES FOR PROJECTS*/
