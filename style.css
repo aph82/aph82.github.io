@@ -1,7 +1,16 @@
 /*THIS FILE IS FOR FORMATTING AND CHANGING APPEARANCE OF HTML SCRIPTS*/
 
 #mainbod {
-	/*background-image:url('background.JPG');*/
+	background-image:url('background.JPG');
+	background-size: cover;
+	@font-face {
+	font-family: "Handfont";
+	src = url('Handfont4.ttf');
+	}
+	font-family: "Handfont";
+
+}
+#ellabod {
 	background-image:url('ella.JPG');
 	background-size: cover;
 	@font-face {
