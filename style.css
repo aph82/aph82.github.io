@@ -1,0 +1,221 @@
+/*THIS FILE IS FOR FORMATTING AND CHANGING APPEARANCE OF HTML SCRIPTS*/
+
+body {
+	/*background-image:url('background.JPG');*/
+	background-image:url('ella.JPG');
+	background-size: cover;
+	@font-face {
+	font-family: "Handfont";
+	src = url('Handfont4.ttf');
+	}
+	font-family: "Handfont";
+
+}
+
+#topgun{
+	/*display: inline-block;*/
+	/*background-color: green;*/
+	/*margin: 1em;*/
+	
+	width:100%;
+	padding:1px;
+
+}
+
+#wrapper {
+
+ 	margin:0 auto;
+  	width:700px
+  	
+
+}
+#signature{
+	float:right;
+	font-size: 25px;
+}
+#yourdiv {
+  display:block;
+    text-align:center;
+  font-size: 700%;
+  color: gold;
+		    text-shadow:
+		    -1px -1px 0 #000,
+		    1px -1px 0 #000,
+		    -1px 1px 0 #000,
+		    1px 1px 0 #000; 
+
+
+}
+
+#underd {
+	vertical-align: text-top;
+	/*background-color: #f1f1f1*/
+	padding:40px;
+}
+
+#countdown {
+	text-align:center;
+	font-family: 'Maven Pro';
+	font-size: 100px;
+	vertical-align: text-top;
+	font-weight: bold;
+	padding-top: 3%;
+}
+
+
+/*ALL FOR DROPDOWN*/
+.dropbtn {
+    background: url(leather.jpg);
+    background-size: cover;
+    color: white;
+    padding: 16px 25px;
+    font-size: 22px;
+    border: 1px solid SaddleBrown;
+    cursor: pointer;
+
+    color: white;
+		    text-shadow:
+		    -1px -1px 0 #000,
+		    1px -1px 0 #000,
+		    -1px 1px 0 #000,
+		    1px 1px 0 #000;
+
+	font-family: 'Maven Pro';
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    /*position: relative;*/
+    float:left;
+    display: inline-block;
+    font-family: 'Maven Pro';
+    
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    font-size: 150%;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+}
+/*ALL FOR DROPDOWN*/
+
+/*CHANGES FOR ABOUT*/
+.Titleabout{
+	color: white;
+		    text-shadow:
+		    -1px -1px 0 #000,
+		    1px -1px 0 #000,
+		    -1px 1px 0 #000,
+		    1px 1px 0 #000;
+	font-size:75%;
+}
+
+#info{
+	font-size:100%;
+	font-family: 'Maven Pro';
+	margin-left:25%;
+	margin-right:25%;
+	text-align: center;
+	padding-top: 20px;
+
+}
+
+/*CHANGES FOR PROJECTS*/
+#projT{
+	margin: auto;
+	overflow:hidden;
+	padding:50px;
+
+}
+
+#projM{
+	margin: auto;
+	overflow:hidden;
+	padding:50px;
+}
+#projB{
+	margin: auto;
+	overflow:hidden;
+	padding:50px;
+}
+
+.projL{
+	background-image:url('Al1.png');
+	float: left;
+	height:350px;
+	width:530px;
+	font-size: 50px;
+	text-align: center
+
+	
+}
+.projR{
+	background-image:url('Al1.png');
+	float: right;
+	height:350px;
+	width:530px;
+	font-size: 50px;
+	text-align: center
+	
+}
+
+.clear{
+	clear:both;
+}
+
+#box:hover{
+	opacity: 0.4;
+	cursor: pointer;
+}
+
+#f{
+	background-color: #BDCDFC;
+	font-size:80px;
+
+}
+/*CHANGES FOR PROJECTS*/
+
+/*CHANGES FOR WALKTHROUGH*/
+#wtext{
+	font-size:100%;
+	font-family: 'Maven Pro';
+	margin-left:25%;
+	margin-right:25%;
+	text-align: center;
+	padding-top: 60px;
+	color:white;
+
+}
+
+a{
+	color:#F9FE43;
+	text-decoration: none;
+	target="_blank"
+}
+
