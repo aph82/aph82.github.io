@@ -5,7 +5,7 @@
 	background-size: cover;
 	@font-face {
 	font-family: "Handfont";
-	src = url('Handfont4.ttf');
+	src = url('Handfont.ttf');
 	}
 	font-family: "Handfont";
 
@@ -15,9 +15,9 @@
 	background-size: cover;
 	@font-face {
 	font-family: "Handfont";
-	src = url('Handfont4.ttf');
+	src = url('Handfont.ttf');
 	}
-	font-family: "Handfont";
+	font-family: 'Handfont';
 
 }
 
