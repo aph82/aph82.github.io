@@ -48,79 +48,34 @@
 <body id="mainbod">
 	
 
-	<div align="center" id="underd">
-				<p style="font-size:25px">Precious in the sight of the Lord is the death of his saints</p>
 
+	<div align="center" id="changeText" class="underd" style="font-size:200%">
+		With our sighs we'll breathe the welkin dim
+		<p id='citation'><i>Titus Andronicus</i></p>
 	</div>
-
-	<style style="text/css">
-	.marquee {
-		 height: 50px;	
-		 overflow: hidden;
-		 position: relative;
-		 /*display:inline-block;*/
-	}
-	.marquee li {
-		 position: absolute;
-		 width: 100%;
-		 height: 100%;
-		 margin: 0;
-		 line-height: 50px;
-		 text-align: center;
-		 /* Starting position */
-		 -moz-transform:translateX(100%);
-		 -webkit-transform:translateX(100%);	
-		 transform:translateX(100%);
-		 /* Apply animation to this element */	
-		 -moz-animation: scroll-left 15s linear infinite;
-		 -webkit-animation: scroll-left 15s linear infinite;
-		 animation: scroll-left 15s linear infinite;
-	}
-	/* Move it (define the animation) */
-@-moz-keyframes scroll-left {
- 0%   { -moz-transform: translateX(100%); }
- 40%   { -moz-transform: translateX(0%); }
- 60%   { -moz-transform: translateX(0%); }
- 100% { -moz-transform: translateX(-100%); }
-}
-@-webkit-keyframes scroll-left {
- 0%   { -webkit-transform: translateX(100%); }
- 40%   { -webkit-transform: translateX(0%); }
- 60%   { -webkit-transform: translateX(0%); }
- 100% { -webkit-transform: translateX(-100%); }
-}
-@keyframes scroll-left {
- 0%   { 
- -moz-transform: translateX(100%); /* Firefox bug fix */
- -webkit-transform: translateX(100%); /* Firefox bug fix */
- transform: translateX(100%); 		
- }
- 20%   { 
- -moz-transform: translateX(0%); /* Firefox bug fix */
- -webkit-transform: translateX(0%); /* Firefox bug fix */
- transform: translateX(0%); 		
- }
- 80%   { 
- -moz-transform: translateX(0%); /* Firefox bug fix */
- -webkit-transform: translateX(0%); /* Firefox bug fix */
- transform: translateX(0%); 		
- }
- 100% { 
- -moz-transform: translateX(-100%); /* Firefox bug fix */
- -webkit-transform: translateX(-100%); /* Firefox bug fix */
- transform: translateX(-100%); 
- }
-}
-	</style>
-
-	<ul class="marquee">
-	<li>Scrolling text... </li>
-	<li>moooooore </li>
-	</ul>
 
 
 
 	
 
 </body>
+<script>
+	var text = [
+	"Precious in the sight of the Lord is the death of his saints <p id='citation'>(Psalms 116:15)</p>", 
+	"Growth for the sake of growth is the ideology of the cancer cell <p id='citation'><i>Desert Solitaire</i></p>", 
+	'The hills groan with excess like a table ceaselessly being set<p id="citation">"Monkey & Bear"</p>'
+	];
+	var counter = 0;
+	var elem = document.getElementById("changeText");
+	setInterval(change, 8000);
+
+	function change() {
+	  var rando = Math.floor((Math.random() * text.length) + 0);
+	  elem.innerHTML = text[rando];
+	  counter++;
+	  if (counter >= text.length) {
+	    counter = 0;
+	  }
+}
+</script>
 </html>

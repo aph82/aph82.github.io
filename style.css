@@ -61,6 +61,16 @@
 	/*background-color: #f1f1f1*/
 	padding:40px;
 }
+.underd {
+	vertical-align: text-top;
+	/*background-color: #f1f1f1*/
+	padding:5%;
+}
+
+#citation {
+	font-family: 'Maven Pro';
+	font-size: 50%;
+}
 
 #countdown {
 	text-align:center;
