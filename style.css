@@ -238,3 +238,46 @@ a{
 	target="_blank"
 }
 
+.mySlides{
+	/*max-width: 100px;*/
+	max-height: 100%;
+	max-width:100%;
+	/*margin-top: 30%;*/
+
+}
+.slideshow{
+	margin-right: 10%;
+	margin-left: 10%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	/*position:fixed;*/
+	
+	/*margin-bottom: 400px;
+	/*max-width: 100px;*/
+	/*background-image: url("frame.png");*/
+	
+
+}
+
+.w3-animate-fading{animation:fading 10s infinite}@keyframes fading{0%{opacity:0}50%{opacity:1}100%{opacity:0}}
+
+.frame{
+	display: inline-block;
+	position:relative;
+	/*background-color: green;*/
+	max-width:50%;
+	max-height:100%;
+	/*text-align: center;*/
+	margin-left:25%;
+
+}
+.frame img.cover{
+	position: absolute;
+    /* position in top left of #tobecovered */
+    top: 0; /* top of #tobecovered */
+    left: 0; /* left of #tobecovered */
+    width:100%;
+    height:100%;
+}
+
+
