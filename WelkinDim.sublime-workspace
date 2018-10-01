@@ -1,0 +1,846 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"PDF",
+				"PDF_DIR"
+			],
+			[
+				"pap",
+				"paperid"
+			],
+			[
+				"downl",
+				"download"
+			],
+			[
+				"alpha",
+				"alpha_composite"
+			],
+			[
+				"Capi",
+				"CapitalBalance"
+			],
+			[
+				"T",
+				"TravisBalance"
+			],
+			[
+				"o",
+				"OLDtbalcount"
+			],
+			[
+				"email",
+				"emailcounter"
+			],
+			[
+				"late",
+				"latest_email_id"
+			],
+			[
+				"relevan",
+				"relevantnotes"
+			],
+			[
+				"personal",
+				"personalideas"
+			],
+			[
+				"rel",
+				"relevantnotes_rns"
+			],
+			[
+				"perso",
+				"personalideas_pis"
+			],
+			[
+				"persona",
+				"personalideas_pi"
+			],
+			[
+				"futu",
+				"futurework_fws"
+			],
+			[
+				"future",
+				"futurework_fw"
+			],
+			[
+				"fw",
+				"fw"
+			],
+			[
+				"pers",
+				"personalideas_pi"
+			],
+			[
+				"curren",
+				"currentwork_cw"
+			],
+			[
+				"add",
+				"addTags"
+			],
+			[
+				"addFields",
+				"addFieldspi"
+			],
+			[
+				"rele",
+				"relevantnotes_rn"
+			],
+			[
+				"curre",
+				"currentwork_cw"
+			],
+			[
+				"tags",
+				"tags_tag"
+			],
+			[
+				"relv",
+				"relevantnotes_rn"
+			],
+			[
+				"fut",
+				"futurework_fws"
+			],
+			[
+				"curr",
+				"currentwork_cw"
+			],
+			[
+				"cur",
+				"currentwork_cw"
+			],
+			[
+				"papes",
+				"papes_citation"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"m",
+				"margin-right"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"arr",
+				"array_filter"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"Nid",
+				"NIdHubH"
+			],
+			[
+				"Gs",
+				"Gs"
+			],
+			[
+				"Get",
+				"GetVal1"
+			],
+			[
+				"Deg",
+				"DegToCntV"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"backgro",
+				"background-attachment"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"te",
+				"text-top"
+			],
+			[
+				"align",
+				"vertical-align"
+			],
+			[
+				"fon",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "about.html",
+			"settings":
+			{
+				"buffer_size": 1452,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "arachne.html",
+			"settings":
+			{
+				"buffer_size": 1143,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ImpendingEcstasy.html",
+			"settings":
+			{
+				"buffer_size": 3910,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2142,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "istyle.css",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "luvlot.html",
+			"settings":
+			{
+				"buffer_size": 24950,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "projects.html",
+			"settings":
+			{
+				"buffer_size": 4240,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 4548,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "walkthrough.html",
+			"settings":
+			{
+				"buffer_size": 2288,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/averyhill/Desktop/Scripts/ScriptProjects/WelkinDim/walkthrough.html",
+		"/Users/averyhill/Desktop/Scripts/ScriptProjects/WelkinDim/style.css",
+		"/Users/averyhill/Desktop/Scripts/ScriptProjects/WelkinDim/projects.html",
+		"/Users/averyhill/Desktop/Scripts/ScriptProjects/WelkinDim/luvlot.html",
+		"/Users/averyhill/Desktop/Scripts/ScriptProjects/WelkinDim/istyle.css",
+		"/Users/averyhill/Desktop/Scripts/ScriptProjects/WelkinDim/index.html",
+		"/Users/averyhill/Desktop/Scripts/ScriptProjects/WelkinDim/ImpendingEcstasy.html",
+		"/Users/averyhill/Desktop/Scripts/ScriptProjects/WelkinDim/arachne.html",
+		"/Users/averyhill/Desktop/Scripts/ScriptProjects/WelkinDim/about.html",
+		"/Users/averyhill/Sites/edit.php",
+		"/Users/averyhill/Sites/pdfOpen.sh",
+		"/Users/averyhill/Sites/php.ini",
+		"/Users/averyhill/Desktop/ArchShit/super_grub2_disk_hybrid_2.02s9.iso",
+		"/Users/averyhill/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/averyhill/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/averyhill/Desktop/Scripts/ScriptProjects/OpenScience/counts.csv",
+		"/Users/averyhill/Desktop/Scripts/patreonScrape.py",
+		"/Users/averyhill/Desktop/RisForResearchPublication/Manuscript Drafts/Add this reference.txt",
+		"/Applications/Install OS X Yosemite.app/Contents/Info.plist",
+		"/Applications/Install OS X Yosemite.app/Contents/version.plist",
+		"/Users/averyhill/Desktop/mgrab.py",
+		"/Users/averyhill/Desktop/Counts.csv",
+		"/Users/averyhill/Desktop/plugins.txt",
+		"/Users/averyhill/Desktop/sqlbackup",
+		"/Users/averyhill/Desktop/Elder Shit/The Elder Scrolls V Skyrim/Skyrim Preferences.app/Contents/MacOS/Skyrim Preferences",
+		"/Users/averyhill/mysql-init.txt",
+		"/Users/averyhill/OSX-Release",
+		"/Users/averyhill/Desktop/Networks/HomeWork/hw0/hw0.tex",
+		"/Users/averyhill/Desktop/Networks/HomeWork/hw0/q3.py",
+		"/Users/averyhill/Desktop/Networks/HomeWork/hw0/q2.py",
+		"/Users/averyhill/Desktop/Networks/HomeWork/hw0/q1.py",
+		"/Users/averyhill/Desktop/Networks/HomeWork/hw0q1.py",
+		"/Users/averyhill/Desktop/Scripts/ScriptProjects/Sinai/projects/arachne.html",
+		"/Users/averyhill/Desktop/PicMap/PicMap.py",
+		"/Users/averyhill/Desktop/Financalc.py",
+		"/Users/averyhill/Desktop/PicMap/Run",
+		"/Users/averyhill/Desktop/PornhubComments.txt",
+		"/Users/averyhill/Desktop/PornScrape",
+		"/Users/averyhill/Desktop/thx.py",
+		"/Users/averyhill/Desktop/thxletter.py",
+		"/Volumes/DATAKNOB/Final/Align/alignNow",
+		"/Volumes/DATAKNOB/Final/rbcL.fa.tnt",
+		"/Volumes/DATAKNOB/Final/rbcL.tnt",
+		"/Volumes/DATAKNOB/Final/cupBMorph.tnt",
+		"/Volumes/DATAKNOB/Final/cupBsub1.tnt",
+		"/Users/averyhill/Desktop/PhySys/Final/cupBsub1",
+		"/Users/averyhill/Desktop/Spoof Me",
+		"/Users/averyhill/Desktop/RisForResearch/ChosenTrees.csv",
+		"/usr/local/Cellar/gdal/1.11.5_1/bin/gdal_polygonize.py",
+		"/Users/averyhill/Desktop/NewtQs.txt",
+		"/Users/averyhill/Desktop/Hide Files"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sess",
+			"session",
+			"start",
+			"sess",
+			"session",
+			"sess",
+			"session",
+			"php",
+			"ini",
+			"or die",
+			"paperid",
+			"cventry",
+			"skill",
+			"inputenc",
+			"pub",
+			"cvitem",
+			"edu",
+			"education",
+			"experience",
+			"publication",
+			"skillsetstyle",
+			"skilltypestyle",
+			"cvskills",
+			"maxwidth",
+			"macbook",
+			"smtp",
+			"b",
+			"b[",
+			"or",
+			"send",
+			"if",
+			"whoops",
+			"print",
+			"var",
+			"images",
+			"image",
+			"echo",
+			"paperform",
+			"yosemite",
+			"10.",
+			"(L)",
+			"try",
+			"tbal",
+			"try_parsing",
+			"omission",
+			"err",
+			"175",
+			"bad",
+			"arrow",
+			"where papes_id",
+			"papes_id",
+			"|",
+			"papid",
+			"[]",
+			"citr",
+			"paperID",
+			"edited",
+			"submit",
+			"tags_tag",
+			"$tags_tag",
+			"50",
+			"console",
+			"getelement",
+			"order",
+			"papes",
+			"addtag",
+			"text",
+			"escape",
+			"connect",
+			"displa",
+			".jp",
+			"icon",
+			"bask",
+			"zgrif",
+			"zgbif",
+			"count",
+			"ellabod",
+			"ella",
+			"frame",
+			"inline",
+			"background-color",
+			"cover",
+			"contain",
+			"align",
+			"test",
+			"handfont",
+			"paperform",
+			"form",
+			"paper",
+			"length",
+			"action",
+			"tag",
+			"option",
+			"submit",
+			"$tagA",
+			"style",
+			"inline",
+			"style",
+			"addtag",
+			"addfield",
+			"butt",
+			"echo",
+			"frminp",
+			"maven",
+			"padding",
+			"left",
+			"Hand",
+			"hand",
+			"handfont",
+			"font",
+			"print",
+			"open",
+			"write",
+			";",
+			"Fokienia_hodginsii",
+			"Chamaecyparis_lawsoniana",
+			"Thujopsis_dolabrata",
+			"Thuja_plicata",
+			"Platycladus_orientalis",
+			"Microbiota_decussata",
+			"Calocedrus_decurrens",
+			"Tetraclinis_articula",
+			"Juniperus_oxycedrus",
+			"Juniperus_drupacea",
+			"Juniperus_phoenicea",
+			"Juniperus_virginiana",
+			"Juniperus_indica",
+			"Juniperus_californica"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"*",
+			"15",
+			"14",
+			"13",
+			"12",
+			"11",
+			"10",
+			"9",
+			"8",
+			"7",
+			"6",
+			"5",
+			"4",
+			"3",
+			"2",
+			"1",
+			"0",
+			"",
+			";\\n",
+			" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "about.html",
+					"settings":
+					{
+						"buffer_size": 1452,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "arachne.html",
+					"settings":
+					{
+						"buffer_size": 1143,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "ImpendingEcstasy.html",
+					"settings":
+					{
+						"buffer_size": 3910,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 2142,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "istyle.css",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "luvlot.html",
+					"settings":
+					{
+						"buffer_size": 24950,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "projects.html",
+					"settings":
+					{
+						"buffer_size": 4240,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "style.css",
+					"settings":
+					{
+						"buffer_size": 4548,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "walkthrough.html",
+					"settings":
+					{
+						"buffer_size": 2288,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
