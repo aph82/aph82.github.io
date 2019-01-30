@@ -223,7 +223,7 @@
 			"file": "ImpendingEcstasy.html",
 			"settings":
 			{
-				"buffer_size": 3910,
+				"buffer_size": 3924,
 				"line_ending": "Unix"
 			}
 		},
@@ -369,6 +369,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"i love you",
+			"ella",
+			"ella2",
 			"sess",
 			"session",
 			"start",
@@ -493,10 +496,7 @@
 			"Tetraclinis_articula",
 			"Juniperus_oxycedrus",
 			"Juniperus_drupacea",
-			"Juniperus_phoenicea",
-			"Juniperus_virginiana",
-			"Juniperus_indica",
-			"Juniperus_californica"
+			"Juniperus_phoenicea"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -534,7 +534,7 @@
 	"groups":
 	[
 		{
-			"selected": 8,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -596,15 +596,15 @@
 					"file": "ImpendingEcstasy.html",
 					"settings":
 					{
-						"buffer_size": 3910,
+						"buffer_size": 3924,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								3898,
+								3827
 							]
 						],
 						"settings":
@@ -613,7 +613,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1665.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -737,8 +737,8 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								289,
+								289
 							]
 						],
 						"settings":
@@ -746,7 +746,7 @@
 							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 398.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
