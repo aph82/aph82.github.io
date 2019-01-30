@@ -223,7 +223,7 @@
 			"file": "ImpendingEcstasy.html",
 			"settings":
 			{
-				"buffer_size": 3924,
+				"buffer_size": 3920,
 				"line_ending": "Unix"
 			}
 		},
@@ -263,7 +263,7 @@
 			"file": "style.css",
 			"settings":
 			{
-				"buffer_size": 4548,
+				"buffer_size": 4566,
 				"line_ending": "Unix"
 			}
 		},
@@ -534,7 +534,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 7,
 			"sheets":
 			[
 				{
@@ -596,15 +596,15 @@
 					"file": "ImpendingEcstasy.html",
 					"settings":
 					{
-						"buffer_size": 3924,
+						"buffer_size": 3920,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3898,
-								3827
+								0,
+								0
 							]
 						],
 						"settings":
@@ -613,7 +613,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1665.0,
+						"translation.y": 436.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -730,15 +730,15 @@
 					"file": "style.css",
 					"settings":
 					{
-						"buffer_size": 4548,
+						"buffer_size": 4566,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								289,
-								289
+								488,
+								488
 							]
 						],
 						"settings":
@@ -746,7 +746,7 @@
 							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 398.0,
+						"translation.y": 175.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
