@@ -207,7 +207,7 @@
 			"file": "about.html",
 			"settings":
 			{
-				"buffer_size": 1452,
+				"buffer_size": 1453,
 				"line_ending": "Unix"
 			}
 		},
@@ -215,7 +215,7 @@
 			"file": "arachne.html",
 			"settings":
 			{
-				"buffer_size": 1143,
+				"buffer_size": 1144,
 				"line_ending": "Unix"
 			}
 		},
@@ -223,7 +223,7 @@
 			"file": "ImpendingEcstasy.html",
 			"settings":
 			{
-				"buffer_size": 3920,
+				"buffer_size": 3921,
 				"line_ending": "Unix"
 			}
 		},
@@ -231,7 +231,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 2142,
+				"buffer_size": 2143,
 				"line_ending": "Unix"
 			}
 		},
@@ -247,7 +247,7 @@
 			"file": "luvlot.html",
 			"settings":
 			{
-				"buffer_size": 24950,
+				"buffer_size": 24951,
 				"line_ending": "Unix"
 			}
 		},
@@ -255,7 +255,7 @@
 			"file": "projects.html",
 			"settings":
 			{
-				"buffer_size": 4240,
+				"buffer_size": 4241,
 				"line_ending": "Unix"
 			}
 		},
@@ -271,7 +271,7 @@
 			"file": "walkthrough.html",
 			"settings":
 			{
-				"buffer_size": 2288,
+				"buffer_size": 2289,
 				"line_ending": "Unix"
 			}
 		}
@@ -369,6 +369,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"fox",
 			"i love you",
 			"ella",
 			"ella2",
@@ -495,8 +496,7 @@
 			"Calocedrus_decurrens",
 			"Tetraclinis_articula",
 			"Juniperus_oxycedrus",
-			"Juniperus_drupacea",
-			"Juniperus_phoenicea"
+			"Juniperus_drupacea"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -534,7 +534,7 @@
 	"groups":
 	[
 		{
-			"selected": 7,
+			"selected": 8,
 			"sheets":
 			[
 				{
@@ -542,15 +542,15 @@
 					"file": "about.html",
 					"settings":
 					{
-						"buffer_size": 1452,
+						"buffer_size": 1453,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								101,
+								101
 							]
 						],
 						"settings":
@@ -569,15 +569,15 @@
 					"file": "arachne.html",
 					"settings":
 					{
-						"buffer_size": 1143,
+						"buffer_size": 1144,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								101,
+								101
 							]
 						],
 						"settings":
@@ -596,15 +596,15 @@
 					"file": "ImpendingEcstasy.html",
 					"settings":
 					{
-						"buffer_size": 3920,
+						"buffer_size": 3921,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								101,
+								101
 							]
 						],
 						"settings":
@@ -613,7 +613,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 436.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -623,15 +623,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 2142,
+						"buffer_size": 2143,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								101,
+								101
 							]
 						],
 						"settings":
@@ -676,15 +676,15 @@
 					"file": "luvlot.html",
 					"settings":
 					{
-						"buffer_size": 24950,
+						"buffer_size": 24951,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								101,
+								101
 							]
 						],
 						"settings":
@@ -703,15 +703,15 @@
 					"file": "projects.html",
 					"settings":
 					{
-						"buffer_size": 4240,
+						"buffer_size": 4241,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								101,
+								101
 							]
 						],
 						"settings":
@@ -746,7 +746,7 @@
 							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 175.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -756,15 +756,15 @@
 					"file": "walkthrough.html",
 					"settings":
 					{
-						"buffer_size": 2288,
+						"buffer_size": 2289,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								101,
+								101
 							]
 						],
 						"settings":
