@@ -19,20 +19,20 @@ pd.df <- data.frame(Binom=pf,Common=common,FilePath=photo_files)
 
 binomArray <- paste('"',pd.df$Binom,'"',sep='')
 binomText <- paste(binomArray,collapse=',')
-binomDone <- paste('var binoms = [',binomText,']',sep='')
+binomDone <- paste('var binoms = [',binomText,'];',sep='')
 
 commonArray <- paste('"',pd.df$Common,'"',sep='')
 commonText <- paste(commonArray,collapse=',')
-commonDone <- paste('var commons = [',commonText,']',sep='')
+commonDone <- paste('var commons = [',commonText,'];',sep='')
 
 FilePathArray <- paste('"Photos/',pd.df$FilePath,'"',sep='')
 FilePathText <- paste(FilePathArray,collapse=',')
-FilePathDone <- paste('var filePaths = [',FilePathText,']',sep='')
+FilePathDone <- paste('var filePaths = [',FilePathText,'];',sep='')
 
 url <- paste('https://en.wikipedia.org/wiki/',gsub('.png','',photo_files),sep='')
 urlArray <- paste('"',url,'"',sep='')
 urlText <- paste(urlArray,collapse=',')
-urlDone <- paste('var urls = [',urlText,']',sep='')
+urlDone <- paste('var urls = [',urlText,'];',sep='')
 
 Done <- paste(binomDone,commonDone,FilePathDone,urlDone,sep='\n')
 write(Done,file='CopyPastetoFlashcard.txt')
