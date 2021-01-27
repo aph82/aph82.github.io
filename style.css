@@ -77,13 +77,14 @@
 }
 
 #countdown {
-	width:100%;
+	width:78%;
 	text-align:center;
 	font-family: 'Maven Pro';
 	font-size: 70px;
 	vertical-align: text-top;
 	font-weight: bold;
-	padding-top: 3%;
+	padding-top: 11%;
+    color: white;
 }
 
 
