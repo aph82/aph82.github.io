@@ -11,7 +11,7 @@
 
 }
 #ellabod {
-	background-image:url('ella5.png');
+	background-image:url('ella7.jpeg');
 	background-size: cover;
 	@font-face {
 	font-family: "Handfont";
@@ -77,14 +77,14 @@
 }
 
 #countdown {
-	width:78%;
+	width:140%;
 	text-align:center;
 	font-family: 'Maven Pro';
 	font-size: 70px;
 	vertical-align: text-top;
 	font-weight: bold;
-	padding-top: 11%;
-    color: white;
+	padding-top: 2%;
+    color: black;
 }
 
 
